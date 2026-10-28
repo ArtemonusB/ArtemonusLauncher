@@ -26,5 +26,19 @@
     "MessageId": 43,
     "DeveloperReply": "",
     "ShortText": "[\u2705] \u0442\u0435\u0441\u0442\u0438\u043A"
+  },
+  {
+    "Id": "b606126b-f584-465f-9874-495f8432935c",
+    "Type": "\u0411\u0430\u0433",
+    "Emoji": "\uD83D\uDEAB",
+    "Author": "\u043A\u043E\u0442\u0438\u043A",
+    "LauncherId": "388-835",
+    "SenderLabel": "\u043F\u0440\u043E\u0441\u0442\u043E \u0438\u043C\u044F",
+    "Text": "\u0442\u0435\u0441\u0442\u0438\u043A \u043C\u044F\u0443",
+    "Date": "2026-10-28T22:34:14.637073+03:00",
+    "Status": "New",
+    "MessageId": 46,
+    "DeveloperReply": "",
+    "ShortText": "\u0442\u0435\u0441\u0442\u0438\u043A \u043C\u044F\u0443"
   }
 ]
