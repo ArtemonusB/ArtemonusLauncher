@@ -40,5 +40,19 @@
     "MessageId": 0,
     "DeveloperReply": "",
     "ShortText": "\uD83D\uDEAB \u0410\u0412\u0422\u041E-\u0411\u0410\u0413: \u0418\u0433\u0440\u0430 \u0432\u044B\u043B\u0435\u0442\u0435\u043B\u0430!  \u0418..."
+  },
+  {
+    "Id": "495e1020-2143-4a37-bdde-8acd8df39a29",
+    "Type": "\u0411\u0430\u0433",
+    "Emoji": "\uD83D\uDEAB",
+    "Author": "Artemonus_B",
+    "LauncherId": "044-197",
+    "SenderLabel": "\u0430\u0432\u0442\u043E-\u0431\u0430\u0433",
+    "Text": "\uD83D\uDEAB \u0410\u0412\u0422\u041E-\u0411\u0410\u0413: \u0418\u0433\u0440\u0430 \u0432\u044B\u043B\u0435\u0442\u0435\u043B\u0430!\n\n\u0418\u0433\u0440\u043E\u043A: Artemonus_B\nID: 044-197\n\u0412\u0435\u0440\u0441\u0438\u044F: 26.3\n\u041A\u043E\u0434 \u0432\u044B\u0445\u043E\u0434\u0430: 1\n\n\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0441\u0442\u0440\u043E\u043A\u0438 \u043B\u043E\u0433\u0430:\n\tat org.lwjgl.system.Library.loadNative(Library.java:402)\n\tat org.lwjgl.vulkan.VK.create(VK.java:74)\n\tat com.mojang.blaze3d.platform.NativeLibrariesBootstrap.tryLoadingVulkan(NativeLibrariesBootstrap.java:309)\n\tat com.mojang.blaze3d.platform.NativeLibrariesBootstrap.loadLibraries(NativeLibrariesBootstrap.java:85)\n\tat net.minecraft.client.main.Main.main(Main.java:142)\n[17:14:39] [Datafixer Bootstrap #0/INFO]: 307 Datafixer optimizations took 686 milliseconds\n[17:14:45] [Render thread/INFO]: Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]\n[17:14:45] [Render thread/INFO]: Setting user: Artemonus_B\n[17:14:45] [Render thread/INFO]: Backend library: LWJGL version 3.4.3\u002B4\n[17:14:45] [Render thread/WARN]: Detected unexpected shutdown during last game startup: resetting fullscreen mode\n[17:14:45] [Render thread/INFO]: SDL [SYSTEM]: App name: Minecraft\n[17:14:45] [Render thread/INFO]: SDL [SYSTEM]: App version: 26.3\n[17:14:45] [Render thread/INFO]: SDL [SYSTEM]: App ID: com.mojang.minecraft\n[17:14:45] [Render thread/INFO]: SDL [SYSTEM]: SDL revision: SDL-3.4.14-62f10da\n[17:14:45] [Render thread/WARN]: Detected unexpected shutdown during last game startup: forcing preferred graphics API to OpenGL",
+    "Date": "2026-11-03T17:14:46.147524+03:00",
+    "Status": "New",
+    "MessageId": 0,
+    "DeveloperReply": "",
+    "ShortText": "\uD83D\uDEAB \u0410\u0412\u0422\u041E-\u0411\u0410\u0413: \u0418\u0433\u0440\u0430 \u0432\u044B\u043B\u0435\u0442\u0435\u043B\u0430!  \u0418..."
   }
 ]
