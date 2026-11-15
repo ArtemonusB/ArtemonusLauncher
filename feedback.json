@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "Id": "5bfe8c04-3449-423c-9662-656a1f273247",
+    "Type": "\u0411\u0430\u0433",
+    "Emoji": "\uD83D\uDEAB",
+    "Author": "\u043A\u043E\u0442\u0438\u043A",
+    "LauncherId": "159-931",
+    "SenderLabel": "\u043F\u0440\u043E\u0441\u0442\u043E \u0438\u043C\u044F",
+    "Text": "\u0442\u0435\u0441\u0442",
+    "Date": "2026-11-15T12:47:47.1081828+03:00",
+    "Status": "New",
+    "MessageId": 80,
+    "DeveloperReply": "",
+    "ShortText": "\u0442\u0435\u0441\u0442"
+  }
+]
