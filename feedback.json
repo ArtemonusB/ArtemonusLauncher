@@ -1,19 +1,5 @@
 [
   {
-    "Id": "5bfe8c04-3449-423c-9662-656a1f273247",
-    "Type": "\u0411\u0430\u0433",
-    "Emoji": "\uD83D\uDEAB",
-    "Author": "\u043A\u043E\u0442\u0438\u043A",
-    "LauncherId": "159-931",
-    "SenderLabel": "\u043F\u0440\u043E\u0441\u0442\u043E \u0438\u043C\u044F",
-    "Text": "\u0442\u0435\u0441\u0442",
-    "Date": "2026-11-15T12:50:08.3312944+03:00",
-    "Status": "Deleted",
-    "MessageId": 80,
-    "DeveloperReply": "",
-    "ShortText": "\u0442\u0435\u0441\u0442"
-  },
-  {
     "Id": "28533174-9ec7-4538-9349-84606a65f700",
     "Type": "\u0418\u0434\u0435\u044F",
     "Emoji": "\uD83D\uDCA1",
